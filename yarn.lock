@@ -15653,7 +15653,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:^3.4.0":
+"dompurify@npm:3.4.12, dompurify@npm:^3.4.0":
   version: 3.4.12
   resolution: "dompurify@npm:3.4.12"
   dependencies:
@@ -18691,7 +18691,7 @@ __metadata:
     dangerously-set-html-content: "npm:1.1.0"
     date-fns: "npm:4.1.0"
     debounce-promise: "npm:3.1.2"
-    dompurify: "npm:3.4.0"
+    dompurify: "npm:3.4.12"
     downsample: "npm:1.4.0"
     enquirer: "npm:^2.4.1"
     esbuild: "npm:0.25.8"
